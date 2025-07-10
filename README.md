@@ -9,4 +9,4 @@ A fun browser-based app that applies real-time filters to your webcam, shows ASC
 - Export pixel images and palettes as PNG
 - Mobile friendly
 
- Try it: https://yourusername.github.io/ascii-pixel-filters/
+ Try it: https://ojodemono.github.io/ascii-pixel-gen/
