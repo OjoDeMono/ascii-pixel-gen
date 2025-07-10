@@ -1,0 +1,36 @@
+body {
+  background-color: #000;
+  color: #0f0;
+  font-family: monospace;
+  padding: 20px;
+  text-align: center;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+canvas {
+  border: 1px solid #555;
+}
+
+pre {
+  white-space: pre;
+  font-size: 6px;
+  line-height: 6px;
+  text-align: left;
+}
+
+.color-char {
+  display: inline-block;
+  width: 6px;
+}
+
+label {
+  display: block;
+  margin: 10px auto;
+  font-size: 14px;
+}
